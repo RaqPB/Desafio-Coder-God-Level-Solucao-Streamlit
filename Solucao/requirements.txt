@@ -1,0 +1,6 @@
+plotly
+psycopg2-binary
+Faker
+streamlit
+pandas
+matplotlib
